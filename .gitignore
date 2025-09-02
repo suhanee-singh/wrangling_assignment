@@ -5,3 +5,10 @@ data/
 *.parquet
 *.zip
 *.gz
+data/
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.zip
+*.gz
